@@ -12,7 +12,7 @@ Dirancang sebagai alat edukasi dan simulasi untuk memahami konsep deadlock, safe
 ## Creator
 
 **Nama:** Ragil Amirzaky (alias Tenzly)
-**Email / Kontak:** [Isi kontak Anda / GitHub]  
+**Email / Kontak:** [lapness21@gmail.com / GitHub]  
 **Tahun:** 2025
 
 ---
@@ -186,7 +186,7 @@ Contoh singkat header MIT:
 ```
 MIT License
 
-Copyright (c) 2025 [Nama Anda]
+Copyright (c) 2025 [\[Ragil Amirzaky\]](https://github.com/Lapnes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```
@@ -195,9 +195,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ## Credit
 
-- Dikembangkan dari: saransridatha(Deadlock)
+- Dikembangkan dari: saransridatha(Banker's Algorithm)
 - Dokumentasi & bantuan pembuatan README: ChatGPT (asisten dokumentasi)
-- Referensi konsep Algoritma Bankir: buku teks OS dan sumber akademik (By ChatGPT ReSearch)
+- Referensi konsep Algoritma Bankir: buku teks OS, CSCI-442, dan sumber akademik (By ChatGPT ReSearch)
 
 ---
 
